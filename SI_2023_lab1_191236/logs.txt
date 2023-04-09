@@ -1,0 +1,8 @@
+1.mkdir SI_2023_lab1_191236
+2.cd SI_2023_lab1_191236
+3. git init
+4. git remote add origin https://github.com/Slobodanka00/SI_2023_lab1_191236.git
+5. git add README.md
+6. git commit -m "Inital commit"
+7. git add SILab1.java
+8. git commit -m "Add java class"
