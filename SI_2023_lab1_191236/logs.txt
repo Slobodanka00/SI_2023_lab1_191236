@@ -6,3 +6,6 @@
 6. git commit -m "Inital commit"
 7. git add SILab1.java
 8. git commit -m "Add java class"
+9. git add logs.txt 191236.txt
+10.git commit -m "Final commit"
+11.git push origin master
